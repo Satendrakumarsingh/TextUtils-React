@@ -1,3 +1,18 @@
+TextUtils - My First React App from CodeWithHarry's Complete React Course in Hindi
+TextUtils is a word counter and a character counting utility which can be used to manipulate your text in the way you want.
+
+The functions are -
+
+Word counter.
+Character counter.
+Minutes Read.
+Convert to Uppercase.
+Convert to Lowercase.
+Speak.
+Copy to text.
+Remove extra spaces.
+Clear
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
